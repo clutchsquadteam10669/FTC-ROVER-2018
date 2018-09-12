@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ProUser/Desktop/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/ProUser/Desktop/ftc_app-master 3/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/ProUser/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/ProUser/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/ProUser/Desktop/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/menu_server.xml",
+        "source": "/Users/ProUser/.android/build-cache/6f7e2f15f9ca7845470c703bddca75fd39d5b386/output/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/ProUser/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/main_menu.xml",
+        "source": "/Users/ProUser/.android/build-cache/05e291e7e8bfed97636d43eb8da572a0e9d5f868/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ProUser/Desktop/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/main_menu.xml",
+        "source": "/Users/ProUser/.android/build-cache/b656525f0a4052ef063a60c1c1d3aca48147ab38/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ProUser/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu/menu_server.xml",
+        "source": "/Users/ProUser/.android/build-cache/50465ec266ad3b800529de963b644ed7ea0d20d4/output/res/menu/menu_server.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: WirelessP2p-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8f46aa9b9e1aa8284d87bd614837ae1341cf1b3c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8f46aa9b9e1aa8284d87bd614837ae1341cf1b3c/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
